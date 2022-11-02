@@ -26,4 +26,10 @@ ________________________________________________________________________________
 Here is a [standalone version](https://github.com/jglmendo/PDFCombinator/blob/main/pdfcombinator_EXE.exe)
 ________________________________________________________________________________________________________________________
 
+To - Do:
+
+Decrypt pdf files;
+
+Multi-threading;
+_________________________________________________________________________________________________________________________
 ### *_Feel free to modify it as you want, refactor, add other features and optimize start_*
